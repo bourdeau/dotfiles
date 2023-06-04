@@ -6,7 +6,6 @@ window:
   padding:
     x: 5
     y: 5
-  decorations: none
   dimensions:
     columns: 70
     lines: 18
@@ -32,8 +31,6 @@ font:
   bold_italic:
     family: "JetBrainsMono Nerd Font"
     style: Bold Italic
-  # size: 20.0
-  # use_thin_strokes: true
 
 draw_bold_text_with_bright_colors: true
 
