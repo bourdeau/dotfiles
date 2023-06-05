@@ -129,9 +129,9 @@ fi
 . "$HOME/.cargo/env"
 
 
-# Load Angular CLI autocompletion.
-# Since when I do js?
-source <(ng completion script)
-
 alias vim='nvim'
+
 eval "$(starship init bash)"
+
+
+PKG_CONFIG_PATH=/usr/lib/pkgconfig
