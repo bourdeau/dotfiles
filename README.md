@@ -9,14 +9,21 @@ I use [chezmoi](https://www.chezmoi.io/) to handle my dotfiles.
 
 ## Setup
 
-sudo apt-get install libfuse2
+```bash
+# Deps
+sudo apt-get install -y gcc cmake g++ libfuse2 libfontconfig1-dev
 
-## Fonts
+#Rustup
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+source .bashrc
+
+# chezmoi
+sh -c "$(curl -fsLS get.chezmoi.io)"
+sudo mv ~/bin/chezmoi /usr/local/bin && sudo chmod +x /usr/local/bin/chezmoi
+chezmoi init git@github.com:$GITHUB_USERNAME/dotfiles.git
 
 ```
-mkdir -p .fonts
-wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/JetBrainsMono.zip
-```
+
 
 ## Terminal: Alcratty
 
@@ -45,3 +52,7 @@ sudo mv squashfs-root /
 sudo ln -s /squashfs-root/AppRun /usr/bin/nvim
 nvim
 ```
+
+:TSInstall bash python cmake dockerfile elixir gitignore go graphql hcl html http javascript json make markdown rust sql terraform toml xml yaml zig
+
+
