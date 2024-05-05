@@ -1,0 +1,1764 @@
+ls
+clear
+ls
+cd www/
+ls
+cd benchmark/
+clear
+ls
+cd www/
+ls
+which kubect
+which kubctl
+kubectl
+which kubectl
+cd ..
+ll
+ls
+ll
+all
+ls -al
+rm kubectl
+clear
+cd www/
+ls
+cd switcloud-srv/
+ls
+git branch
+cd ~/.cache/starship
+ls
+cd
+starship init nu | save -f ~/.cache/starship/init.nu
+$nu.config-path
+vim 
+nvim /home/ph/.config/nushell/config.nu
+exit
+clear
+ls
+ll
+$nu.config-path
+code /home/ph/.config/nushell/config.nu
+config nu
+exit
+vim
+ls
+vim .bashrc
+clear
+exit
+clear-docker 
+exit
+clear-docker 
+exit
+clear 
+clear-docker 
+exit
+clear-docker 
+exit
+clear-docker 
+docker rmi $(docker images -q)
+exit
+clear-docker 
+exit
+clear-docker 
+exit
+clear
+clear-docker 
+exit
+clear
+clear-docker 
+clear
+clear-docker 
+cd www/switcloud-srv/
+make stop
+clear-docker 
+clear
+git branc
+git branch
+git branch -D 118-use-httpx-instead-requests
+git branch -D feat-deploy-doc feat-docs-auth fix-docs
+git branch
+git branch -D fix-docs-nginx
+git pull origin main
+clear
+make start
+make --help
+make
+make fix-code-style
+git status
+git checkout .
+clear
+ls
+ll
+clear
+ls
+make shell
+make stop
+make tests-start
+make tests-check-code-style
+git status
+rm switcloud/switcloud/mixins.py
+clear
+make tests-check-code-style
+git status
+make tests-stop
+make start
+make fix-code-style
+git status
+git checkout .
+make fix-code-style
+git status
+git checkout -b fix-makefile
+git status
+git add -A
+git commit -m "fix: Makefile ignoring exit codes"
+git push origin fix-makefile
+exit
+nu
+clear
+git status
+exit
+clear
+exit
+cd www/switcloud-srv/
+source ~/.cache/carapace/init.nu
+carapace _carapace nushell | save --force ~/.cache/carapace/init.nu
+source ~/.cache/carapace/init.nu
+clear
+git branch -D :q
+clear
+ls
+ls | size
+ls | size > 500B
+clear
+ll
+ls | where size > 100B
+ls | where size > 100B | reverse
+http
+http get https://github.com/LearnWebCode/json-example/blob/master/animals-1.json
+clear
+http get https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json
+clear
+http get https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json | ro json
+http get https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json | to json
+http get https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json
+http get https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json | to json
+clear
+vim
+cd
+vim
+ls
+cd Images/
+l
+ls
+cat moi.jpeg 
+open moi.jpeg 
+version
+version | pivot
+version | transpose
+clear
+cd
+cd .config/
+vim
+exit
+ls
+exit
+ls
+clear
+ls
+lsl
+l
+clear
+ls
+clear
+ls
+ll
+ls
+clear
+cd www/switcloud-srv/
+ls
+git checkout main
+git stash
+clear
+ls
+clear
+ls
+git checkout main
+git pull origin main
+git stash apply
+git status
+clear
+ls
+make start
+make stop
+ls
+make load-fixtures
+make migrate
+make load-fixtures
+exit
+make dev-start
+make stop
+make tests-start
+make tests-smoke
+clear
+make fix-code-style
+make start
+make fix-code-style
+clear
+make stop
+make tests-start
+make help
+make tests-all
+ls
+clear
+config nu
+$nu.config-path
+vim /home/ph/.config/nushell/config.nu
+clear
+exit
+exit
+clear
+make tests-check-code-style
+make tests-all
+clear
+touch test.py
+python test.py
+make tests-all
+touch test.py
+python test.py
+clear
+make tests-check-code-style
+make tests-stop
+clear
+make start
+make fix-code-style
+cd
+cd www/
+git clone https://github.com/typeddjango/django-stubs.git
+cd switcloud-srv/
+clear
+ls
+make fix-code-style
+python test.py
+clear
+make fix-code-style
+ls
+ls | where size > 100B | reverse
+vim
+ls
+cd www/switcloud-srv/
+cd
+cd .config/
+ll
+vim
+:q
+exit
+exit
+vim
+cd
+clear
+ls
+cd www/switcloud-srv/
+git status
+make stop
+clear
+make start
+make fix-code-style
+clear
+make stop
+make start
+make stop
+make tests-start
+make tests-ut
+clear
+make tests-ut
+make tests-inte
+make tests-ut
+python
+make tests-ut
+clear
+make tests-ut
+clear
+make tests-ut
+clear
+make tests-ut
+clear
+make tests-ut
+clear
+git status
+git diff
+git checkout -b feat-82-query-fields
+git add -A
+git commit -m "Wip"
+clear
+git checkout main
+git pull origin main
+git pull origin
+git checkout 121-settings-management
+git branch
+git checkout feat-82-query-fields
+make tests-ut
+clear
+make tests-ut
+clear
+make tests-ut
+clear
+make fix-code-style
+make start
+make fix-code-style
+clear
+make fix-code-style
+git status
+clear
+make fix-code-style
+clear
+make tests-ci
+make tests-stop
+make start
+make fix-code-style
+git status
+git add -A
+git commit -m "Done"
+git push origin feat-82-query-fields
+make start
+make migrate
+vim
+clear
+ls
+cd www/switcloud-srv/
+git sttaus
+git status
+gi checkout main
+git checkout main
+git pull origin
+git pull origin main
+vim
+cd www/switcloud-srv/
+vim
+cd
+cd .config/
+ls
+which nu
+:q
+vim
+exit
+exit
+exit
+cd www/switcloud-srv/
+vim
+cd
+cd .config/
+ls
+cd nushell/
+ls
+vim
+exit
+vim /home/ph/.config/nushell/config.nu
+nvim /home/ph/.config/nushell/config.nu
+exit
+cd .cache/
+l
+ls
+cd carapace/
+ls
+vim init.nu
+source init.nu
+cd
+cd www/switcloud-srv/
+cd
+cd .config/
+cd nushell/
+ls
+vim config.nu 
+exit
+cd .config/
+vim
+exit
+cd www/switcloud-srv/
+git pull origin
+git checkout 97-50-refacto-models
+vim
+git checkout main 
+git checkout 97-50-refacto-models
+make start
+make fix-code-style 
+git pull origin 97-50-refacto-models
+make fix-code-style 
+git checkout main
+git status
+git checkout .
+clear
+git checkout main
+git pull origin main
+vim
+exit
+vim
+cargo install ripgrep
+vim
+ripgrep -R User .
+exit
+riprgep
+rg -R User .
+rg -r User .
+cd www/switcloud-srv/
+rg -r User .
+rg -i User .
+vim
+ls | whereis 
+whereis help
+whereis --help
+whereis nu
+clear
+ls
+ls | where size > 100B | reverse
+top
+:q
+cargo install dog
+git checkout origin/97-50-refacto-models 
+git status
+git checkout .
+git switch -
+git branch
+git checkout 97-50-refacto-models
+git pull origin 97-50-refacto-models
+make stop
+make tests-start
+make tests-all
+cd www/switcloud-srv/
+make tests-inte
+vim
+git checkout main
+vim
+git checkout 97-50-refacto-models 
+ls | to json
+exit
+vim
+clear
+git pull origin 97-50-refacto-models
+make stop
+make tests-start
+make tests-inte
+clear
+make tests-inte
+exit
+git checkout main
+git pull origin master
+git pull origin main
+make tests-ci
+vim
+git branch
+git checkout 121-settings-management
+git checkout .
+git pull origin 121-settings-management
+make tests-ci 
+git status
+rm switcloud/switcloud/fixtures/capksar.yaml
+git diff
+clear
+git diff
+make tests-ci 
+clear
+make tests-ci 
+ll
+make tests-stop
+make tests-start
+make
+make tests-check-code-style
+make tests-stop
+make start
+make fix-code-style 
+make stop
+make start
+make fix-code-style 
+make shell 
+clear
+make fix-code-style 
+rm poetry.lock
+make shell 
+clear
+clear-docker 
+make stop
+clear-docker 
+make start
+make shell 
+git status
+git checkout poetry.lock
+make start
+make stop
+make tests-start
+make tests-all
+clear
+make tests-all
+clear
+make tests-all
+clear
+git status
+git checkout .
+git status
+rm switcloud/switcloud/settings/__init__.py
+make tests-all
+exit
+clear
+make tests-all
+python
+clear
+cd
+cd www/switcloud-ifs/
+cd environments/prod/
+vim
+cd ..
+cd environments/prod/
+cd
+cd Documents/
+ls
+cat prod.txt 
+cat prod.txt | to json
+tf apply
+exit
+exit
+vim
+cd
+cd www/switcloud-srv/
+make start
+make fix-code-style 
+clear
+make fix-code-style 
+python
+clear
+cd www/switcloud-srv/
+git branch
+git status
+git checkout .
+clear
+git status
+rm switcloud/switcloud/settings/__init__.py
+git status
+git checkout main
+git pull origin main
+clear
+git branch
+git branch -D fix-makefile 
+git branch -D 97-50-refacto-models 
+git branch
+git pull origin
+git branch -a
+git checkout origin/fix-outcome-statuses-alignment 
+git switch -
+git checkout fix-outcome-statuses-alignment 
+vim
+git rebase main
+git status
+git add -A
+git commit -m "Remove migration"
+git rebase main
+vim
+git status
+vim switcloud/core/models.py 
+git status
+git rebase --continue
+git status
+clear
+vim
+make stop
+clear-docker 
+clear
+make start
+git status
+git diff
+make
+make migrate
+vim
+make makemigrations 
+git status
+git diff
+git status
+vim switcloud/payment/migrations/0002_alter_payment_outcome_status.py
+make stop
+make start
+make fix-code-style 
+make start
+make stop
+cd
+cd .config/
+ll
+mkdir ~/.config/zellij
+zellij setup --dump-config > ~/.config/zellij/config.kdl
+ls
+make tests-ci 
+vim zellij/config.kdl 
+code zellij/config.kdl 
+zellij options --theme tokyo_night
+exit
+bash
+exit
+bash
+exit
+clear
+ls
+exit
+ls
+clear
+l
+ls
+ll
+clear
+ls
+cd www/switcloud-srv/
+git status
+git diff
+git add -A
+git commit -m "Fixed conflicts"
+git push origin fix-outcome-statuses-alignment
+git push origin --force fix-outcome-statuses-alignment
+git status
+git checkout main 
+git pull origin main
+make start
+make shell 
+exit
+make start
+make migrate
+make load-fixtures
+exit
+vim
+exit
+cd www/switcloud-srv/
+make stop
+make tests-start
+clear
+make tests-func
+make tests-inte 
+clear
+make tests-inte 
+clear
+make tests-inte 
+clear
+git status
+make start
+make fix-code-style 
+make stop
+make tests-ci
+make tests-inte 
+make tests-func
+make tests-inte
+make stop
+make fix-code-style 
+make start
+make fix-code-style 
+make tests-ci
+git status
+git checkout -b feat-64-queryparamsvalidation
+git add -A
+git commit -m "done"
+git push origin feat-64-queryparamsvalidation
+cd www/switcloud-srv/
+ls
+mv manage.py switcloud/
+make start
+make fix-code-style 
+ls
+ll
+vim switcloud/manage.py 
+ll
+cd switcloud/
+ll
+clear
+make stop
+cd ..
+l
+make start
+make migrate
+cd ..
+ls
+cd switcloud-srv/
+cd switcloud/
+mv manage.py ..
+cd ..
+ls
+clear
+make migrate
+make load-fixtures 
+git status
+git checkout .
+git checkout main 
+git pull origin main
+clear
+clear-docker 
+make stop
+clear-docker 
+docker ps
+make stop
+clear-docker 
+make start
+ls
+rm poetry.lock
+poetry lock
+make start
+make stop
+make dev-start 
+poetry add sqlmodel
+make build
+make dev-start 
+poetry add fastapi-pagination
+make dev-start 
+make build
+make  start
+make shell 
+ll
+sudo chown ph:ph poetry.lock 
+make build
+make dev-start 
+make start
+make build
+make start
+make shell
+make build
+make dev-start 
+git checkout -b feat-fastapi
+git status
+clear
+git add -A
+git commit -m "Boot"
+make start
+make fix-code-style 
+clear
+make shell
+make stop
+make build
+make dev-start 
+make start
+make fix-code-style 
+git status
+git add -A
+git commit -m "Wip"
+git push origin feat-fastapi
+make dev-start 
+git status
+git add -A
+git commit -m "Wip"
+git push origin feat-fastapi
+git checkout -b feat-core-bom
+make migrate
+make start
+make migrate
+make shell 
+clear
+make migrate
+clear
+make migrate
+make makemigrations 
+make migrate
+git checkout -b feat-fastapi-alembic
+git status
+git add -A
+git commit -m "Alembic"
+make start
+make fix-code-style 
+git add -A
+git commit -m "CI"
+git push origin feat-fastapi-alembic
+git add -A
+git commit -m "CI"
+git push origin feat-fastapi-alembic
+git add -A
+git commit -m "CI"
+git push origin feat-fastapi-alembic
+make stop
+make start
+make fix-code-style 
+git add -A
+git status
+git add -A
+git commit -m "BaseModel"
+git push origin feat-fastapi-alembic
+make fix-code-style 
+make shell 
+clear-docker 
+make stop
+clear
+git status
+clear-docker 
+make dev-start 
+make start
+make makemigrations 
+git status
+make fix-code-style 
+make stop
+make dev-start 
+make start
+git add -A
+git commit -m "Done"
+make makemigrations 
+make fix-code-style 
+git add -A
+git commit -m "Done"
+git push origin feat-fastapi-alembic
+make stop
+make start
+make makemigrations 
+make fix-code-style 
+git add -a
+git add -A
+git commit -m "Done"
+git push origin feat-fastapi-alembic
+git add -A
+git commit -m "Done"
+git push origin feat-fastapi-alembic
+git status
+make start
+make fix-code-style 
+git add -A
+git commit -m "Done"
+git push origin feat-fastapi-alembic
+ping google.fr
+git push origin feat-fastapi-alembic
+cd www/switcloud-srv/
+git push origin feat-fastapi-alembic
+make stop
+make tests-start
+make tests-check-code-style 
+docker ps
+make tests-stop
+make tests-start
+ls
+clear
+ls
+ll
+ls
+ll
+clear
+ls
+make tests-start
+make tests-check-code-style 
+git status
+git add -A
+git commit -m "Done"
+git push origin feat-fastapi-alembic
+vim
+cd www/switcloud-srv/
+vim
+clear
+vim
+lls
+ll
+ls | to json
+clear
+git branch
+git branch -D 121-settings-management 
+git branch -D feat-82-query-fields 
+git branch
+git branch -D feat-64-queryparamsvalidation 
+git branch -D fix-outcome-statuses-alignment 
+git branch
+git checkout feat-fastapi 
+git pull origin feat-fastapi
+git branch
+git branch -D feat-fastapi-alembic 
+clear
+ls
+gitr branch
+git brnach
+git branch
+git branch -D feat-core-bom 
+git branch
+clear
+make stop
+make start
+make makemigrations 
+make migrate
+clear
+make fix-code-style 
+git checkout -b feat-bom-models
+git add -A
+git commit -m "feat: bom models"
+git push origin feat-bom-models
+git status
+make fix-code-style 
+git add -A
+git commit -m "fixes after review"
+git push origin feat-bom-models
+bash
+exit
+cd www/switcloud-srv/
+git push origin feat-bom-models
+cd www/switcloud-srv/
+git push origin feat-bom-models
+cd www/switcloud-srv/
+git status
+git add -A
+git commit  -m "Removed acronyms from Enums"
+git push origin feat-bom-models
+clear
+git branch
+git checkout -b feat-fastapi
+git checkout feat-fastapi
+git pull origin feat-fastapi
+git checkout feat-bom-models
+git rebase feat-fastapi 
+make fix-code-style 
+make start
+make fix-code-style 
+git add -A
+git commit -m "Mypy fixes & CI checks"
+git push origin feat-bom-models
+git pull origin feat-bom-models
+git status
+git config pull.rebase true
+git pull origin feat-bom-models
+git branch
+git checkout .
+git checkout feat-fastapi
+git branch
+git branch -D feat-bom-models
+git branch
+git pull
+git branch -a
+git remote prune origin
+git branch -a
+git checkout feat-bom-models
+git pull origin feat-bom-models
+git status
+make fix-code-style 
+git add -A
+git commit -m "Mypy fixes & CI checks"
+git status
+git push origin feat-bom-models
+make makemigrations 
+make stop
+make build
+make start
+make fix-code-style 
+make makemigrations 
+git status
+git add -A
+git commit -m "list & __repr__"
+git push origin feat-bom-models
+git checkout feat-fastapi
+git branch
+git pull origin feat-fastapi
+git branch
+git branch -D feat-bom-models
+git remote prune origin
+clear
+make stop
+make delete-db
+make start
+make makemigrations 
+make migrate
+git status
+git checkout ./switcloud/bom/models.py 
+make makemigrations 
+make stop
+make delete-db
+make start
+make makemigrations 
+make migrate
+git status
+git checkout ./switcloud/bom/models.py 
+make stop
+make delete-db
+make start
+make makemigrations 
+make migrate
+clear
+git status
+make fix-code-style 
+git status
+git diff
+git checkout -b fix-association-tables
+git add -A
+git commit -m "fix: association tables"
+git push origin fix-association-tables
+ll
+ll migrations/
+ls migrations/versions/
+git status
+make makemigrations 
+make stop
+make delete-db
+make start
+make makemigrations 
+git status
+git add -A
+git commit -m "fix: association tables"
+git push origin fix-association-tables
+make stop
+make delete-db 
+make start
+make makemigrations 
+git status
+make fix-code-style 
+make stop
+make delete-db 
+make start
+make makemigrations 
+make fix-code-style 
+git status
+git add -A
+git commit -m "fix: association tables"
+git push origin fix-association-tables
+clear
+git status
+git checkout feat-fastapi
+git pull
+git status
+git pull origin feat-fastapi
+git pull
+git pull origin
+git branch -a
+git checkout feat-fastapi-user
+git pull origin feat-fastapi-user
+make shell
+make migrate
+make makemigrations 
+cd migrations/
+ll
+mkdir versions
+cd ..
+make makemigrations 
+make migrate
+make shell
+python
+git status
+git checkout ./switcloud/core/tests/inte/test_inte_user_model.py 
+git checkout .
+git branch
+git status
+git checkout fix-association-tables 
+git status
+rm migrations/versions/04300afd8621_.py
+git status
+make fix-code-style 
+git add -A
+git commit -m "fix: association tables"
+git push origin fix-association-tables
+python
+clear
+git branch
+git checkout feat-fastapi
+git pull origin feat-fastapi
+git branch
+git branch -D feat-fastapi-user
+git branch -D fix-association-tables 
+clear
+git branch
+git pull origin feat-fastapi
+git checkout -b feat-bom-models-again
+make fix-code-style 
+git status
+git add -A
+git commit -m "BOM Models Done"
+git push origin feat-bom-models-again
+cd www/
+vim
+cd switcloud-srv/
+vim
+cd www/switcloud-srv/
+git status
+vim
+git status
+git add -A
+make start
+make collectstatic 
+make fix-code-style 
+git status
+git add -A
+git commit -m "Code review"
+git push origin feat-bom-models-again
+git pull origin feat-bom-models-again
+git push origin feat-bom-models-again
+clear
+git branch
+git checkout feat-fastapi
+git pull origin feat-fastapi
+clear
+git branch
+git branch -D feat-bom-models-again
+git remote prune origin
+git checkout -b feat-bom-schemas
+vim
+cd www/switcloud-srv/
+make start
+make fix-code-style 
+git status
+git add -A
+git commit -m "feat: Contract, Organization, POI, Service & Store Pydantic Schemas"
+git push origin feat-bom-schemas
+cd
+cd www/
+git clone git@gitlab.com:switstack/switcloud/switfmt.git
+rm -rf switfmt/
+git clone git@gitlab.com:switstack/switcloud/switstyle.git
+cd switstyle/
+rustup update
+cargo new switstyle --bin
+cargo add clap --features derive
+cd www/
+git clone https://github.com/astral-sh/ruff.git
+cd switstyle/
+cargo add toml
+cargo add serde
+cargo add serde_derive
+cargo build
+clear
+cargo build
+./target/debug/switstyle
+cargo build
+./target/debug/switstyle
+cargo build
+./target/debug/switstyle
+clear
+cargo build
+./target/debug/switstyle
+cargo build
+./target/debug/switstyle
+cargo build
+./target/debug/switstyle
+cargo build
+./target/debug/switstyle
+cargo build
+./target/debug/switstyle
+cargo build
+./target/debug/switstyle
+cargo build
+./target/debug/switstyle
+cd ..
+cd switcloud-srv/
+git pull
+git status
+git checkout feat-fastapi-user
+make stop
+make start
+make migrate
+make shell
+make stop
+make delete-db 
+make start
+make migrate
+make makemigrations 
+make migrate
+make shell 
+make stop
+make delete-db 
+make start
+make migrate 
+make shell 
+clear
+make stop
+make delete-db 
+make start
+make migrate
+make shell 
+make stop
+make delete-db 
+make start
+make migrate
+make shell 
+make stop
+make delete-db 
+make start
+make migrate 
+make shell 
+git status
+git checkout .
+git branch
+git checkout feat-bom-schemas 
+git add -A
+git commpit -m "Review fixes"
+git commit -m "Review fixes"
+git push origin feat-bom-schemas
+git pull origin feat-bom-schemas
+git push origin feat-bom-schemas
+make stop
+make start
+make fix-code-style 
+git status
+git add -A
+git commit -m "Review fixes"
+git push origin feat-bom-schemas
+man open
+ls
+ls | to json
+ls | where size > 100B | reverse
+top
+top | to_json
+cd www/switstyle/
+cargo build
+./target/debug/switstyle
+./target/debug/switstyle --dir coucou
+cargo build
+./target/debug/switstyle --dir coucou
+cargo build
+./target/debug/switstyle --dir coucou
+clear
+ls
+ls | where size > 100B | reverse
+ls | to json
+vim
+:q
+exit
+exit
+cd www/switcloud-srv/
+git status
+git diff
+make stop
+make start
+make fix-code-style 
+git add -A
+git commit -m "Review fixes"
+git push origin feat-bom-schemas
+cd
+cd www/switstyle/
+cargo add anyhow
+cargo build
+./target/debug/switstyle --dir coucou
+cargo build
+./target/debug/switstyle --dir coucou
+cargo fmt
+clear
+cargo check
+cargo fmt --all -- --check
+cargo clippy --all-targets --all-features -- -D warnings
+git status
+git checkout -b feat-pyproject-rules
+git add -A
+git commit -m "feat: Pyproject.toml check switstyle rules exists"
+git push origin feat-pyproject-rules
+cargo build --release
+cargo test --release
+git status
+git add -A
+git commit -m "feat: CI build"
+git push origin feat-pyproject-rules
+git add -A
+git commit -m "feat: CI build"
+git push origin feat-pyproject-rules
+rustup component add rustfmt clippy
+git add -A
+git commit -m "feat: CI build"
+rustup component add rustfmt clippy
+git push origin feat-pyproject-rules
+cd www/
+cargo new blabla
+cd blabla/
+cargo add anyhow
+cd ..
+clear
+cd switstyle/
+cargo run
+RUST_BACKTRACE=1
+bash
+$env.RUST_BACKTRACE = 1
+cargo run
+cargo build --release
+ls target/
+./target/release/switstyle
+mv pyproject.toml pyproject.tml
+./target/release/switstyle
+$env.RUST_BACKTRACE = 0
+./target/release/switstyle
+clear
+cargo run
+cargo run --dir blabla
+cargo run -- --dir blabla
+cargo run -- --dir src
+cargo run -- --dir srca
+cargo run -- --dir src
+cargo fmt
+cargo clippy --all-targets --all-features -- -D warnings
+git add -A
+git commiut -m "fix: removed Anyhow"
+git push origin feat-pyproject-rules
+git commit -m "fix: removed Anyhow"
+git push origin feat-pyproject-rules
+git add -A
+git commit -m "fix: removed Anyhow from deps"
+git push origin feat-pyproject-rules
+cat Documents/prod.txt 
+cd www/switcloud-srv/
+git checkout feat-fastapi
+git pull origin feat-fastapi
+git branch
+git branch -D feat-bom-schemas 
+git branch -D feat-fastapi-user 
+git branch
+git remote prune origin 
+git checkout -b feat-bom-schemas-again
+cd www/
+git clone https://github.com/django/django.git
+make start
+make shell 
+clear
+make stop
+make start
+make fix-code-style 
+git staus
+make fix-code-style 
+git status
+git add -A
+git commit -m "feat(fastapi): BIN, BINConfig, BINList, CAPK, CAPKList, CR, CRList, EMV, EMVConfig, EMVList, POIConfig Schemas & Validators"
+git push origin feat-bom-schemas-again
+git fetch origin
+git checkout -b 'feat-bom-schemas-again' 'origin/feat-bom-schemas-again'
+git checkout feat-fastapi 
+git branch
+git branch -D feat-bom-schemas-again 
+git checkout -b 'feat-bom-schemas-again' 'origin/feat-bom-schemas-again'
+git rebase feat-fastapi 
+git push origin feat-bom-schemas-again
+git checkout feat-fastapi 
+git pull origin feat-fastapi
+git branch
+git checkout feat-bom-schemas-again 
+git rebase feat-fastapi 
+git branch
+git checkout feat-fastapi 
+git pull origin feat-fastapi
+git branch
+git branch -D feat-bom-schemas-again 
+git branch
+git pull
+git pull origin
+git fetch
+git branch -a
+git checkout origin feat-bom-schemas-again
+git branch -a
+git checkout feat-bom-schemas-again
+git pull origin feat-bom-schemas-again
+git add -A
+git commit -m "fix: validation bin"
+git push origin feat-bom-schemas-again
+make fix-code-style 
+git add -A
+git commit -m "fix: codereview"
+git push origin feat-bom-schemas-again
+make migrate
+git status
+make fix-code-style 
+make stop
+make delete-db 
+make start
+make makemigrations 
+make migrate
+make fix-code-style 
+git add -A
+git commit -m "fixes"
+git push origin feat-bom-schemas-again
+clear
+cd www/switcloud-srv/
+git status
+rm blabla.py
+rm -rf fixtures/
+git checkout feat-fastapi
+git pull origin feat-fastapi
+cd www/switcloud-srv/
+make shell 
+vim
+ls
+ls | to json 
+ls | to yaml 
+ls | to html 
+ls | to xml 
+ll
+clear
+exit
+cd www/switcloud-srv/
+ll
+ll | where size > 100Mb
+ll | where size > 1Mb
+ll | where size > 1B
+ll | where size > 100B
+ll | where size > 1000B
+clear
+make start
+make fix-code-style 
+make dev-start 
+make stop
+make dev-start 
+make start
+make fix-code-style 
+make stop
+make dev-start 
+cd www/switcloud-srv/
+make start
+make shell 
+make stop
+make dev-start 
+make start
+make fix-code-style 
+make shell 
+make fix-code-style 
+clear
+make fix-code-style 
+cd www/
+git clone https://github.com/Netflix/dispatch.git
+git pull origin feat-fastapi
+git status
+git stash
+git status
+git pull origin feat-fastapi
+clear
+git stash apply
+make fix-code-style 
+make dev-start 
+make start
+make shell 
+make fix-code-style 
+make stop
+make fix-code-style 
+make start
+make fix-code-style 
+make stop
+make dev-start 
+make start
+make fix-code-style 
+clear
+git staus
+git status
+rm test.py
+ll
+ls
+clear
+git status
+git checkout -b feat-bom-end
+git add -A
+git commit -m "feat(fastapi): Bom routing"
+git push origin feat-bom-end
+make dev-start 
+make stop
+make dev-start 
+git status
+git checkout .
+make dev-start 
+git checkout .
+git status
+git log
+make stop
+make dev-start 
+make start
+make fix-code-style 
+git add -A
+git commit -m "API Doc example"
+git push origin feat-bom-end
+make fix-code-style 
+git add -A
+git commit -m "More doc"
+git push origin feat-bom-end
+make fix-code-style 
+git add -A
+git commit -m "More doc"
+git push origin feat-bom-end
+make fix-code-style 
+git add -A
+git commit -m "More doc"
+git push origin feat-bom-end
+free
+ps | where cpu > 5
+ps | where cpu > 1
+ps
+ps | where cpu > 1
+clear
+make stop
+make start
+make fix-code-style 
+git add -A
+git commit -m "Delete routes"
+git push origin feat-bom-end
+cd www/switstyle/
+cargo run -- --dir src
+ll
+ls -al
+clear
+cargo run -- --dir src
+clear
+cargo run -- --dir src
+git status
+cargo run -- --dir src
+git log -1
+git log
+git log -2
+git diff --name-only 559fb85139db35462fe0044c290bb52e4fa3395a caac41fce369c9f2968404711c4cf04cff4656fd
+cargo run -- --dir src
+clear
+cargo run -- --dir src
+git rev-parse --short HEAD~2
+git rev-parse HEAD~2
+git rev-parse HEAD~3
+git log -3 --pretty=format:"%h"
+git log -3 --pretty=format:"%H"
+git log -2 --pretty=format:"%H"
+cargo run -- --dir src
+clear
+cargo run -- --dir src
+git checkout main 
+git stash
+git checkout main 
+git pull origin main
+git stash apply
+cargo fmt
+cargo clippy --all-targets --all-features -- -D warnings
+git status
+rm pyproject.toml
+clear
+git status
+git checkout -b feat-gitdiff
+git add -A
+git commit -m "feat: git diff"
+git push origin feat-gitdiff
+cargo run -- --dir src
+cp tests/pyproject.toml .
+cargo run -- --dir src
+cargo fmt
+cargo clippy --all-targets --all-features -- -D warnings
+git status
+git add -A
+git commit -m "Minor stuff"
+git push origin feat-gitdiff
+cd www/switcloud-srv/
+cd .config/
+cd alacritty/
+exit
+ls
+vim
+exit
+vim
+:q
+exit
+vim
+ls | to json
+ls | to csv
+nu --help
+exit
+nu -i
+exit
+bash
+env
+$env
+$env | to json
+env
+env | to json
+env | to csv
+clear
+htop
+cd www/switstyle/
+ls
+clear
+ls
+exit
+vim
+vim*
+exit
+ls
+htop
+top
+vim
+clear
+exit
+cd www/switcloud-srv/
+gi branch 
+gi branch -a
+git branch -a
+git branch
+vim
+exit
+cd www/switstyle/
+git checkout main
+git pull origin main
+git branch
+git branch -D feat-gitdiff feat-pyproject-rules 
+clear
+cargo run -- --dir src
+git log
+git diff-tree --no-commit-id --name-only 2d823583e07b682206ca518e568f131bb652b959 -r
+git diff-tree --no-commit-id --name-only  5b5a56966e9021bcd4808632837eed950bce932b -r
+git diff-tree --no-commit-id --name-only  559fb85139db35462fe0044c290bb52e4fa3395a -r
+cargo build
+cd tests/
+git init .
+git status
+git add -A
+git commit -m "Intial commit"
+mkdir migrations
+cd migrations/
+touch azdazdazd.py
+cd ..
+git add -A
+git commit -m "Whatever"
+cd ..
+ll
+./target/release/switstyle tests/
+echo $?
+bash
+exit
+cd www/switcloud-srv/
+vim
+cd ..
+cd switstyle/
+cargo run -- --dir src
+cargo run -- --dir tests
+cd tests/
+git log
+clear
+cd ..
+cargo run -- --dir tests
+cargo fmt
+cargo run -- --dir tests
+cd tests/
+ls -al
+rm -rf .git
+cd ..
+cargo build
+cd ..
+cd switcloud-srv/
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cd
+cd www/switstyle/
+cargo run -- --dir tests
+cargo build
+cd ..
+cd switcloud-srv/
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cd www/switstyle/
+cargo build
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+exit
+cd 
+cd www/switcloud-srv/
+git status
+git checkout .
+exit
+$env.RUST_BACKTRACE = 1
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+$env.RUST_BACKTRACE = full
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+/home/ph/www/switstyle/target/release/switstyle --dir tests
+./target/release/switstyle --dir tests
+cargo run -- --dir tests
+cd ..
+cd switcloud-srv/
+exit
+clear
+exit
+cd www/switstyle/
+cargo run -- --dir tests
+cargo build
+./target/release/switstyle --dir tests
+cd ..
+ll
+cd blabla/
+cargo run
+clear
+cargo run
+clear
+cargo run
+clear
+cargo run
+cargo build
+./target/debug/blabla
+cd ..
+cd switstyle/
+ll
+rm -rf target/
+clear
+cargo build --release
+cd
+cd www/switcloud-srv/
+/home/ph/www/switstyle/target/release/switstyle --dir tests
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+git log
+git diff-tree --no-commit-id --name-only -r cf75993fc6d70b2bcab15a2dd0f603ede448f1c
+cd www/switstyle/
+cargo build --release
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+git log
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+git diff-tree --no-commit-id --name-only -r cf75993fc6d70b2bcab15a2dd0f603ede448f1c3
+cargo build --release
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cargo build --release
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cargo build --release
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cargo build --release
+cargo build --release
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cargo build --release
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cargo fmt
+cargo build --release
+git status
+git checkout -b feat-migration-rule
+git add -A
+git commit -m "feat: Multiple migrations detection"
+git push origin feat-migration-rule
+exit
+cd www/switstyle/
+vim
+git status
+git checkout main
+git pull origin main
+vim
+cargo build --release
+cd www/switcloud-srv/
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cargo build --release
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cargo build --release
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cargo build --release
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cargo build --release
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cargo build --release
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cargo build --release
+/home/ph/www/switstyle/target/release/switstyle --dir switcloud/
+cargo build --release
+git status
+cargo fmt
+exit
+git checkout -b feat-custom-errors
+git add -A
+git commit -m "feat: custom errors"
+git push origin feat-custom-errors
+git add -A
+git commit -m "fix: nb migration cmp"
+git push origin feat-custom-errors
+cd www/switstyle/
+cargo build --release
+cargo run -- --dir src
+cargo fmt
+cargo run -- --dir src
+cargo fmt
+clear
+cargo clippy --all-targets --all-features -- -D warnings
+git status
+git add -A
+git commit -m "fix: refactoring"
+git push origin feat-custom-errors
+cd www/switstyle/
+vim
+cd
+cd .config/
+ls
+cd nvim/
+ls
+vim
+cd
+cd www/switstyle/
+vim
+cd
+cd .config/nvim/
+rustup component add rust-analyzer
+:q
+cd .config/nvim/
+vim
+code .
+vim
+cd
+cd www/switstyle/
+vim
+exit
+cd www/switstyle/
+vim
+clear
+stow --help
