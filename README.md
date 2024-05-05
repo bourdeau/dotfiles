@@ -9,7 +9,7 @@ I use [tow](https://www.gnu.org/software/stow/) to manage my dotfiles.
 
 ## Rust
 
-```bash
+```
 # Rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source .bashrc
@@ -64,6 +64,14 @@ sudo ln -s /squashfs-root/AppRun /usr/bin/nvim
 nvim
 ```
 
+## Ripgrep
+
+```
+cargo install ripgrep
+```
+
 ## Neovim: Treesitter
 
+```
 :TSInstall bash python cmake dockerfile elixir gitignore go graphql hcl html http javascript json make markdown rust sql terraform toml xml yaml zig
+```
